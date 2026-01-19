@@ -22,10 +22,12 @@ AI coding skills that enhance developer productivity on Solana.
 
 AI agents and autonomous systems built for Solana.
 
+- [Ashborn](https://github.com/AlleyBo55/ashborn) - Privacy relay protocol on Solana using ZK Groth16 proofs, stealth addresses, and Light Protocol. Enables autonomous AI agents to perform fully private on-chain transactions and commerce without exposing wallets or strategies.
 - [Chronoeffector AI Arena](https://arena.chronoeffector.ai) - Chronoeffector AI is a decentralized platform building a fully autonomous AI agent trading arena on Solana, enabling users to deploy AI agents for trading cryptocurrencies, stocks, commodities, and prediction markets.
 - [Solana Agent Kit](https://github.com/sendaifun/solana-agent-kit) - Open-source toolkit connecting AI agents to 30+ Solana protocols with 50+ actions including token operations, NFTs, and swaps. Compatible with Eliza, LangChain, and Vercel AI SDK.
 - [Eliza Framework](https://github.com/elizaOS/eliza) - Lightweight TypeScript AI agent framework with Solana integrations, Twitter/X bots, and character-based configuration for agent behaviors.
 - [GOAT Framework](https://github.com/goat-sdk/goat) - Open-source toolkit for connecting AI agents to 200+ onchain tools with multi-chain support including Solana, EVM, and more.
+- [Micropay x402 Paywall](https://github.com/AlleyBo55/micropay-solana-x402-paywall) - Production-ready x402-compliant paywall for Solana micropayments. Supports seamless autonomous payments by AI agents to access premium content on-chain.
 
 ## Developer Tools
 
