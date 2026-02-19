@@ -52,7 +52,8 @@ AI coding skills that enhance developer productivity on Solana.
 - [coingecko-skill](https://github.com/sendaifun/skills/tree/main/skills/coingecko) - AI coding skill for CoinGecko Solana API covering token prices, DEX pool data, OHLCV charts, and market analytics.
 - [debridge-skill](https://github.com/sendaifun/skills/tree/main/skills/debridge) - AI coding skill for deBridge Protocol covering cross-chain bridges, message passing, and token transfers between Solana and EVM chains.
 - [metaplex-skill](https://github.com/sendaifun/skills/tree/main/skills/metaplex) - Community AI coding skill for Metaplex Protocol covering Core NFTs, Token Metadata, Bubblegum, Candy Machine, and the Umi framework.
-
+- [solana-dev-skill-rent-free](https://github.com/Lightprotocol/skills) - Solana development agent skills for Claude Code, OpenClaw and others. Covers client and Anchor/Pinocchio program development without rent-exemption for defi, payments, token distribution, ZK Solana programs and debugging.
+  
 ## AI Agents
 
 AI agents and autonomous systems built for Solana.
