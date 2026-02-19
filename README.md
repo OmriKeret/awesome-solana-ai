@@ -39,6 +39,7 @@ AI coding skills that enhance developer productivity on Solana.
 - [sanctum-skill](https://github.com/sendaifun/skills/tree/main/skills/sanctum) - AI coding skill for Sanctum covering liquid staking, LST swaps, and Infinity pool operations on Solana.
 - [dflow-skill](https://github.com/sendaifun/skills/tree/main/skills/dflow) - AI coding skill for DFlow trading protocol covering spot trading, prediction markets, Swap API, and WebSocket streaming on Solana.
 - [ranger-finance-skill](https://github.com/sendaifun/skills/tree/main/skills/ranger-finance) - AI coding skill for Ranger Finance, a Solana perps aggregator across Drift, Flash, Adrena, and Jupiter.
+- [andmilo-skill](https://github.com/and-milo/agent-to-agent-portfolio-manager) - AI coding skill for andmilo, an autonomous Solana portfolio manager for agents and humans with configurable risk, strategy selection, and execution routing.
 
 ### Infrastructure
 
@@ -61,6 +62,7 @@ AI agents and autonomous systems built for Solana.
 - [GOAT Framework](https://github.com/goat-sdk/goat) - Open-source toolkit for connecting AI agents to 200+ onchain tools with multi-chain support including Solana, EVM, and more.
 - [AgenC](https://github.com/tetsuo-ai/AgenC) - Privacy-focused multi-agent coordination framework with ZK proof integrations and confidential compute for Solana.
 - [Breeze Agent Kit](https://github.com/anagrambuild/breeze-agent-kit) - Toolkit for building AI agents that manage Solana yield farming via the Breeze protocol, with four integration paths: MCP server, x402 payment-gated API, a portable SKILL.md for agent frameworks, and one-command install through ClawHub.
+- [andmilo](https://github.com/and-milo/agent-to-agent-portfolio-manager) - Autonomous Solana portfolio manager for agents and humans with configurable risk, strategy selection, and execution routing via Jupiter and Dflow.
 
 ## Developer Tools
 
