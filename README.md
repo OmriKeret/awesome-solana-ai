@@ -78,6 +78,7 @@ AI-enhanced development tools for the Solana ecosystem.
 
 - [Solana Developer MCP](https://mcp.solana.com/) - Maintained by Solana. Solana MCP (Model Context Protocol) is a specialized AI assistant that integrates directly into AI-supported IDEs like Cursor and Windsurf (works with Claude CLI as well). Automatically queries the MCP server to provide accurate, up-to-date information from Solana and Anchor Framework documentation.
 - [DFlow MCP Server](https://pond.dflow.net/build/mcp) - Unified spot + prediction market trading API with smart routing and low-failure execution; MCP connects AI tools to DFlow docs, APIs, and code recipes for accurate integrations on Solana.
+- [Deside MCP](https://github.com/DesideApp/deside-mcp) - Wallet-to-wallet messaging primitive for Solana agents via MCP, where agents authenticate with an Ed25519 keypair and send DMs addressed by pubkey.
 - [SLO (Solana LLM Oracle)](https://github.com/GauravBurande/solana-llm-oracle) - Enables LLM inference directly in Solana programs for on-chain AI capabilities in games and protocols requiring autonomous functions.
 - [LumoKit](https://github.com/Lumo-Labs-AI/lumokit) - Lightweight Python AI toolkit for Solana with on-chain actions, token swaps via Jupiter, and research capabilities for ecosystem developers.
 - [AImpact](https://aimpact.dev) - online AI-powered IDE for Web3 apps generation, including generating and deploying (currently to devnet, mainnet coming soon) Solana smart contracts.
@@ -88,7 +89,6 @@ AI-enhanced development tools for the Solana ecosystem.
 - [vulnhunter-skill](https://github.com/sendaifun/skills/tree/main/skills/vulnhunter) - AI coding skill for security vulnerability detection, dangerous API hunting, and variant analysis across Solana codebases.
 - [code-recon-skill](https://github.com/sendaifun/skills/tree/main/skills/zz-code-recon) - AI coding skill for deep architectural context building for security audits, mapping trust boundaries and vulnerability analysis.
 - [surfpool-skill](https://github.com/sendaifun/skills/tree/main/skills/surfpool) - AI coding skill for Surfpool, a Solana development environment with mainnet forking, cheatcodes, and Infrastructure as Code.
-- [Deside MCP](https://github.com/DesideApp/deside-mcp) - Wallet-to-wallet messaging primitive for Solana agents via MCP. Agents authenticate with Ed25519 keypair and send DMs addressed by pubkey.
 
 ## Learning Resources
 
